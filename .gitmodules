@@ -1,0 +1,3 @@
+[submodule "majong_backend"]
+	path = majong_backend
+	url = https://github.com/wwMark/majong_backend.git
